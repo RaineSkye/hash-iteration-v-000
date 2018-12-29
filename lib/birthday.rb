@@ -11,4 +11,4 @@ def happy_birthday(birthday_kids)
   end
 end
 
-happy_birthday
+happy_birthday(birthday_kids)
